@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Vigna</h1>
 <h3 align="center">A (very) passionate Systems Engineer</h3>
 
-- 🌱 I’m currently learning **Kotlin and Swift!**
+- 🌱 I’m currently learning **Kotlin and Angular!**
 
 - 📫 How to reach me **alberto.vigna19@gmail.com**
 
